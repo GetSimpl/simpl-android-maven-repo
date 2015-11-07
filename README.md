@@ -1,5 +1,9 @@
 # Simpl Android SDK
 
+## Version 1.0.1 Release Notes
+1. Added customizations support to Buy with Simpl button
+2. Customizations can be done using Java methods of SimplButton or using stylable provided with verison 1.0.1.
+
 ## Version 1.0.0 Release Notes
 1. First production release
 2. Web view based flow
