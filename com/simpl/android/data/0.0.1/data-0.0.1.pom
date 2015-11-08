@@ -52,7 +52,7 @@
     <dependency>
       <groupId>com.crittercism</groupId>
       <artifactId>crittercism-android-agent</artifactId>
-      <version>+</version>
+      <version>5.4.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
