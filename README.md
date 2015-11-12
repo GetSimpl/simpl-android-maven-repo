@@ -1,5 +1,10 @@
 # Simpl Android SDK
 
+## Version 1.0.3 Release Notes
+1. Reduced Target Compile SDK version to 22.0.1
+2. Reduced Build Tool version to 22.0.1
+3. Super slim SDK, no thrid party library dependency.
+
 ## Version 1.0.2 Release Notes
 1. Added customization method and styled attribute for SimplButton title text.
 2. Added ```SimplSession```, a simple storage system across the activites.
