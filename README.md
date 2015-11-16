@@ -4,6 +4,9 @@
 1. Reduced Target Compile SDK version to 22.0.1
 2. Reduced Build Tool version to 22.0.1
 3. Super slim SDK, no thrid party library dependency.
+4. Detection for Simpl app for delegating the transactions.
+5. Elaborated error messages sent through onError.
+6. Added onCancelled callback to detect if user has cancelled the transaction in-between.
 
 ## Version 1.0.2 Release Notes
 1. Added customization method and styled attribute for SimplButton title text.
