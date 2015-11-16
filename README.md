@@ -1,5 +1,9 @@
 # Simpl Android SDK
 
+## Version 1.0.4 Release Notes
+1. Removed Crittercism and shifted error logging on Airbrake
+2. Reduced size of SDK : Now its 188 KB including all dependencies.
+
 ## Version 1.0.3 Release Notes
 1. Reduced Target Compile SDK version to 22.0.1
 2. Reduced Build Tool version to 22.0.1
