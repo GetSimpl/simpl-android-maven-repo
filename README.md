@@ -7,7 +7,7 @@
    - Fixed the scaling issue related with Simpl logo on SimplButton
    - Fixed the scrolling issue on the account activation page
 2. Added ripple effect on SimplButton (for LOLLIPIP+ devices)i
-3. simpl_separatorColor is now deprecated. simpl_buttonShadowColor be used as separator color from 1.0.5.
+3. simpl_separatorColor is now deprecated. simpl_buttonShadowColor will be used as separator color from 1.0.5.
 
 ## Version 1.0.4 Release Notes
 1. Removed Crittercism and shifted error logging on Airbrake
