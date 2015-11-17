@@ -1,5 +1,8 @@
 # Simpl Android SDK
 
+## Version 1.0.6 Release Notes
+1. Added authorizeTransaction method for using custom button/view to trigger transaction authorization.
+
 ## Version 1.0.5 Release Notes
 1. Bug fixes 
    - Fixed the button height issue related with Cynogenmod.
