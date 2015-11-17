@@ -1,5 +1,14 @@
 # Simpl Android SDK
 
+## Version 1.0.5 Release Notes
+1. Bug fixes 
+   a. Fixed the button height issue related with Cynogenmod.
+   b. Fixed the dpToPx conversion for simpl__simpleButtonHeight attribute
+   c. Fixed the scaling issue related with Simpl logo on SimplButton
+   d. Fixed the scrolling issue on the account activation page
+2. Added ripple effect on SimplButton (for LOLLIPIP+ devices)i
+3. simpl_separatorColor is now deprecated. simpl_buttonShadowColor be used as separator color from 1.0.5.
+
 ## Version 1.0.4 Release Notes
 1. Removed Crittercism and shifted error logging on Airbrake
 2. Reduced size of SDK : Now its 188 KB including all dependencies.
