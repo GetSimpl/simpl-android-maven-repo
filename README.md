@@ -1,5 +1,8 @@
 # Simpl Android SDK
 
+## Version 1.0.7 Release Notes
+1. onCancelled callback is deprecated now. That code block will never be called during the SDK flow.
+
 ## Version 1.0.6 Release Notes
 1. Added authorizeTransaction method for using custom button/view to trigger transaction authorization.
 
