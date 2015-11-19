@@ -1,5 +1,9 @@
 # Simpl Android SDK
 
+## Version 1.0.8 Release Notes
+1. onCancelled callback is removed from the listener
+2. Automatic closing of the confirmation page is added. The default time is 3 seconds.
+ 
 ## Version 1.0.7 Release Notes
 1. onCancelled callback is deprecated now. That code block will never be called during the SDK flow.
 
