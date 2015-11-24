@@ -1,5 +1,8 @@
 # Simpl Android SDK
 
+## Version 1.0.9 Release Notes
+1. ProgressDialog is shown for the webview url loading
+
 ## Version 1.0.8 Release Notes
 1. onCancelled callback is removed from the listener
 2. Automatic closing of the confirmation page is added. The default time is 3 seconds.
