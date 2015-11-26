@@ -1,5 +1,9 @@
 # Simpl Android SDK
 
+## Version 1.0.10 Release Notes
+1. Minor bug fixes
+2. Loader related UI fixes
+
 ## Version 1.0.9 Release Notes
 1. ProgressDialog is shown for the webview url loading
 
