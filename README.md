@@ -1,5 +1,12 @@
 # Simpl Android SDK
 
+## Version 1.0.12 Release Notes
+1. Update proguard config for the SDK
+2. Removed some overlapping dependency
+
+## Version 1.0.11 Release Notes
+1. Fixed loader issues
+
 ## Version 1.0.10 Release Notes
 1. Minor bug fixes
 2. Loader related UI fixes
