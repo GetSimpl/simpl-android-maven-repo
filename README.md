@@ -1,5 +1,8 @@
 # Simpl Android SDK
 
+## Version 1.0.13 Release Notes
+1. Fixed bug related with listeners for some edge cases
+
 ## Version 1.0.12 Release Notes
 1. Update proguard config for the SDK
 2. Removed some overlapping dependency
