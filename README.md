@@ -1,5 +1,8 @@
 # Simpl Android SDK
 
+## Version 1.0.14 Release Notes
+1. Fixed loader related issue
+
 ## Version 1.0.13 Release Notes
 1. Fixed bug related with listeners for some edge cases
 
