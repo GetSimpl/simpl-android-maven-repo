@@ -1,5 +1,11 @@
 # Simpl Android SDK
 
+## Version 1.0.16 Release Notes
+1. Fixed wrong thread issue for showing SimplButton
+
+## Version 1.0.15 Release Notes
+1. I never made it to the production :(
+
 ## Version 1.0.14 Release Notes
 1. Fixed loader related issue
 
