@@ -1,5 +1,18 @@
 # Simpl Android SDK
 
+## Version 1.1.0 Release Notes
+1. Now the Airbrake notifier just notifies the exceptions caused because of Simpl SDK
+2. Sister release of 1.0.15, with new way of communicating with Simpl SDK. Most of the previous
+APIs are deprecated now (they work, but not recommended to be used). Older APIs will stop working
+ from March 2016.
+ 3. Added flag system to Simpl SDK
+ 4. Now we track Location and mobile device info along with API calls to protect transactions 
+ against fraud
+ 5. Added fix for known SSL handshake bug for devices lower than 4.4. (http://stackoverflow.com/questions/29916962/javax-net-ssl-sslhandshakeexception-javax-net-ssl-sslprotocolexception-ssl-han)
+ 6. Fixed some minor bugs
+ 7. Fixed OTP reader logic for parsing all endpoints of the SIMPLX sms gateway
+
+
 ## Version 1.0.16 Release Notes
 1. Fixed wrong thread issue for showing SimplButton
 
