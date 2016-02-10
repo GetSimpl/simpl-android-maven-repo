@@ -1,5 +1,9 @@
 # Simpl Android SDK
 
+## Version 1.1.1 Release Notes
+1. Fixed issues related with loader dialog
+2. Some minor bug fixes
+
 ## Version 1.1.0 Release Notes
 1. Now the Airbrake notifier just notifies the exceptions caused because of Simpl SDK
 2. Sister release of 1.0.15, with new way of communicating with Simpl SDK. Most of the previous
