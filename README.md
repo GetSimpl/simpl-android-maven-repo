@@ -1,5 +1,8 @@
 # Simpl Android SDK
 
+## Version 1.1.2 Release Notes
+1. Replaced READ_SMS permission with RECEIVE_SMS
+
 ## Version 1.1.1 Release Notes
 1. Fixed issues related with loader dialog
 2. Some minor bug fixes
