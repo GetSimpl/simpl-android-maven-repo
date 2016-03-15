@@ -1,5 +1,8 @@
 # Simpl Android SDK
 
+## Version 1.1.3 Release Notes
+1. Bug fixes related with web view rendering and webview client
+
 ## Version 1.1.2 Release Notes
 1. Replaced READ_SMS permission with RECEIVE_SMS
 
