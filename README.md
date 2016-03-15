@@ -19,6 +19,9 @@ APIs are deprecated now (they work, but not recommended to be used). Older APIs 
  6. Fixed some minor bugs
  7. Fixed OTP reader logic for parsing all endpoints of the SIMPLX sms gateway
 
+## Version 1.0.17 Release Notes
+1. DismissLoader helper method to remove ongoing loader issues
+2. Some bug fixes in webview client.
 
 ## Version 1.0.16 Release Notes
 1. Fixed wrong thread issue for showing SimplButton
