@@ -1,5 +1,9 @@
 # Simpl Android SDK
 
+## Version 1.1.4 Release Notes
+1. Bug fixes related with SimplSession
+2. More precise tracking of errors during SDK to Merchant App Communication
+
 ## Version 1.1.3 Release Notes
 1. Bug fixes related with web view rendering and webview client
 
