@@ -1,5 +1,8 @@
 # Simpl Android SDK
 
+## Version 1.1.5 Release Notes
+1. Added new microservice endpoint for approval api call
+
 ## Version 1.1.4 Release Notes
 1. Bug fixes related with SimplSession
 2. More precise tracking of errors during SDK to Merchant App Communication
