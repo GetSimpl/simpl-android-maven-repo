@@ -1,5 +1,8 @@
 # Simpl Android SDK
 
+## Version 1.1.6 Release Notes
+1. Fixed OTP auto-fill issue
+
 ## Version 1.1.5 Release Notes
 1. Added new microservice endpoint for approval api call
 
