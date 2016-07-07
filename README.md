@@ -1,5 +1,8 @@
 # Simpl Android SDK
 
+## Version 1.1.7 Release Notes
+1. Deprecated SimplUserApprovalListener and added new SimplUserApprovalListenerV2 with button_text as param to be used in the UI.
+
 ## Version 1.1.6 Release Notes
 1. Fixed OTP auto-fill issue
 
