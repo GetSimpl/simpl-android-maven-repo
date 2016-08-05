@@ -1,5 +1,8 @@
 # Simpl Android SDK
 
+## Version 1.1.8 Release Notes
+1. Removed SimplButton that was deprecated in the last release. 
+
 ## Version 1.1.7 Release Notes
 1. Deprecated SimplUserApprovalListener and added new SimplUserApprovalListenerV2 with button_text as param to be used in the UI.
 
