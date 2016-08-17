@@ -1,5 +1,8 @@
 # Simpl Android SDK
 
+## Version 1.1.9 Release Notes
+1. Fixed Parcel related issue for devices below 1.1.9
+
 ## Version 1.1.8 Release Notes
 1. Removed SimplButton that was deprecated in the last release.
 2. Added new gateway in SMS listener
