@@ -1,5 +1,8 @@
 # Simpl Android SDK
 
+## Version 1.1.10 Release Notes
+1. Added Subscriptions flow
+
 ## Version 1.1.9 Release Notes
 1. Fixed Parcel related issue for devices below 1.1.9
 
