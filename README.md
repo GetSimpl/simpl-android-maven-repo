@@ -1,5 +1,9 @@
 # Simpl Android SDK
 
+## Version 1.1.11 Release Notes
+1. Added Redirection flow (in case of Payment due/Exceed Limit)
+2. Added new Method with no amount param in Subscriptions flow
+
 ## Version 1.1.10 Release Notes
 1. Added Subscriptions flow
 
