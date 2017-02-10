@@ -1,5 +1,9 @@
 # Simpl Android SDK
 
+## Version 1.1.11.1 Release Notes
+1. Minor crash fix due to No GPS device
+2. Auto read OTP fix
+
 ## Version 1.1.11 Release Notes
 1. Added Redirection flow (in case of Payment due/Exceed Limit)
 2. Added new Method with no amount param in Subscriptions flow
