@@ -1,5 +1,8 @@
 # Simpl Android SDK
 
+## Version 1.2.0 Release Notes
+1. Added fingerPrint headers and released for testing
+
 ## Version 1.1.11.1 Release Notes
 1. Minor crash fix due to No GPS device
 2. Auto read OTP fix
