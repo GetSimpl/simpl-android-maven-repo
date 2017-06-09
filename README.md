@@ -1,7 +1,7 @@
 # Simpl Android SDK
 
-## Version 1.2.0 Release Notes
-1. Added fingerPrint headers and released for testing
+## Version 1.1.12 Release Notes
+1. Added fingerPrint headers and Bug fixes
 
 ## Version 1.1.11.1 Release Notes
 1. Minor crash fix due to No GPS device
@@ -50,7 +50,7 @@
 APIs are deprecated now (they work, but not recommended to be used). Older APIs will stop working
  from March 2016.
  3. Added flag system to Simpl SDK
- 4. Now we track Location and mobile device info along with API calls to protect transactions 
+ 4. Now we track Location and mobile device info along with API calls to protect transactions
  against fraud
  5. Added fix for known SSL handshake bug for devices lower than 4.4. (http://stackoverflow.com/questions/29916962/javax-net-ssl-sslhandshakeexception-javax-net-ssl-sslprotocolexception-ssl-han)
  6. Fixed some minor bugs
@@ -91,7 +91,7 @@ APIs are deprecated now (they work, but not recommended to be used). Older APIs 
 ## Version 1.0.8 Release Notes
 1. onCancelled callback is removed from the listener
 2. Automatic closing of the confirmation page is added. The default time is 3 seconds.
- 
+
 ## Version 1.0.7 Release Notes
 1. onCancelled callback is deprecated now. That code block will never be called during the SDK flow.
 
@@ -99,9 +99,9 @@ APIs are deprecated now (they work, but not recommended to be used). Older APIs 
 1. Added authorizeTransaction method for using custom button/view to trigger transaction authorization.
 
 ## Version 1.0.5 Release Notes
-1. Bug fixes 
+1. Bug fixes
    - Fixed the button height issue related with Cynogenmod.
-   - Fixed the dpToPx conversion for simpl__simpleButtonHeight attribute 
+   - Fixed the dpToPx conversion for simpl__simpleButtonHeight attribute
    - Fixed the scaling issue related with Simpl logo on SimplButton
    - Fixed the scrolling issue on the account activation page
 2. Added ripple effect on SimplButton (for LOLLIPIP+ devices)i
@@ -139,4 +139,3 @@ All rights reserved.
 This software is proprietary, commercial software. All use must be licensed. The licensee is given the right to use the software under certain conditions, but is restricted from other uses of the software, such as modification, further distribution, or reverse engineering. Unauthorized use, duplication, reverse engineering, any form of redistribution, or use in part or in whole other than by prior, express, written and signed license for use is subject to civil and criminal prosecution. If you have received this file in error, please notify the copyright holder and destroy this and any other copies as instructed.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER ON AN "AS IS" BASIS AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED, AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
