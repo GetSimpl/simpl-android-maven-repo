@@ -1,6 +1,5 @@
 # Simpl Android SDK
-
-## Version 1.1.12 Release Notes
+## Version 1.1.15 Release Notes
 1. Added fingerPrint headers and Bug fixes
 
 ## Version 1.1.11.1 Release Notes
