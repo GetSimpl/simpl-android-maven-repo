@@ -1,4 +1,8 @@
 # Simpl Android SDK
+## Version 1.1.16 Release Notes
+1. Resolved Warning during Build of SDK
+2. Added survey button support during backpress in transaction flow.
+
 ## Version 1.1.15 Release Notes
 1. Added fingerPrint headers and Bug fixes
 
