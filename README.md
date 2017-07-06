@@ -1,4 +1,6 @@
 # Simpl Android SDK
+## Version 1.1.18 Release Notes
+1. Modular SDK integration
 ## Version 1.1.17 Release Notes
 1. Removed permissions from SDK
 ## Version 1.1.16 Release Notes
