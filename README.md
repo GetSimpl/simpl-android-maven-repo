@@ -1,4 +1,6 @@
 # Simpl Android SDK
+## Version 1.1.20 Release Notes
+1. Removed ACCESS_WIFI_STATE permission
 ## Version 1.1.19 Release Notes
 1. Removed permissions from fingerprinting SDK 
 ## Version 1.1.18 Release Notes
