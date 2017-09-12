@@ -1,4 +1,7 @@
 # Simpl Android SDK
+## Version 1.1.21 Release Notes
+1. Removed playservices and added Location Manager for Location updates
+2. Refactoring of codes
 ## Version 1.1.20 Release Notes
 1. Removed ACCESS_WIFI_STATE permission
 ## Version 1.1.19 Release Notes
