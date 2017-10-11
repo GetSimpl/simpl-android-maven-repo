@@ -1,4 +1,6 @@
 # Simpl Android SDK
+## Version 1.1.22 Release Notes
+1. SDK can also be initialized programmatically.
 ## Version 1.1.21 Release Notes
 1. Removed playservices and added Location Manager for Location updates
 2. Refactoring of codes
