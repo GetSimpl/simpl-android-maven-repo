@@ -1,4 +1,6 @@
 # Simpl Android SDK
+## Version 1.0.6 Zeroclick SDK release note
+1. introduce new method for generateToken and redirectUrl, for server to server call
 ## Version 1.1.23 Release Notes
 1. Fixed proguard issues
 ## Version 1.1.22 Release Notes
