@@ -1,6 +1,8 @@
 # Simpl Android OneClick SDK
 
 ## Release Notes
+### v1.1.25
+1. Flag added to restrict data collection from device
 ### v1.1.24
 1. Fingerprint init bug fix
 ### v1.1.23 
