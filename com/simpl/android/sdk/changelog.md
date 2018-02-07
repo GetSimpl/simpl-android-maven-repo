@@ -1,6 +1,9 @@
 # Simpl Android OneClick SDK
-
 ## Release Notes
+### v1.1.27
+1. Permission Request mismatch issue
+### v1.1.26
+1. Fingerprint instance creation issue.
 ### v1.1.25
 1. Flag added to restrict data collection from device
 ### v1.1.24
