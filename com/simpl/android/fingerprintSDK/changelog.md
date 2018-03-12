@@ -1,6 +1,8 @@
 # Simpl Android Fingerprint SDK
 
 ## Release Notes
+### v1.0.11
+- Dynamic Permission added
 ### v1.0.10
 - Permission Request mismatch issue
 ### v1.0.9
