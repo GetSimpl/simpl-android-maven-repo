@@ -1,4 +1,6 @@
 # Simpl Android Approval SDK
+### v1.0.14
+- Dynamic permission added
 ### v1.0.13
 - Added logging for approval
 ### v1.0.12
