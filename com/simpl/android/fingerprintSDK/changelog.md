@@ -1,6 +1,8 @@
 # Simpl Android Fingerprint SDK
 
 ## Release Notes
+### v1.0.13
+- Fixed a crash when email is empty during fingerprint generation
 ### v1.0.11
 - Dynamic Permission added
 ### v1.0.10
