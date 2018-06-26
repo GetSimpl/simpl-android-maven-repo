@@ -1,5 +1,7 @@
 # Simpl Android ZeroClick SDK
 ## Release Notes
+### v1.0.16
+- Triggering the callbacks in UI thread
 ### v1.0.15
 - [Approval v1.0.16](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/approvalSDK/changelog.md#v1016)
 ### v1.0.13
