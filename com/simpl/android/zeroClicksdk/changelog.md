@@ -1,5 +1,7 @@
 # Simpl Android ZeroClick SDK
 ## Release Notes
+### v1.0.18
+ - Token generation and url redirection returns a single error message instead of an array
 ### v1.0.17
  - [Fingerprint v1.0.14](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/fingerprintSDK/changelog.md)
 ### v1.0.16
