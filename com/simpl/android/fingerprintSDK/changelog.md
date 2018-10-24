@@ -1,7 +1,7 @@
 # Simpl Android Fingerprint SDK
 
 ## Release Notes
-### v1.0.15
+### v1.0.14
 - Added more fingerprint params for fraud detection
 ### v1.0.13
 - Fixed a crash when email is empty during fingerprint generation
