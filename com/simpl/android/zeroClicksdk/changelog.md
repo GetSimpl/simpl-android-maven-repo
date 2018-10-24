@@ -1,5 +1,7 @@
 # Simpl Android ZeroClick SDK
 ## Release Notes
+### v1.0.17
+ - [Fingerprint v1.0.14](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/fingerprintSDK/changelog.md)
 ### v1.0.16
 - Triggering the callbacks in UI thread
 ### v1.0.15
