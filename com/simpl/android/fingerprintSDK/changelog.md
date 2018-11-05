@@ -1,6 +1,8 @@
 # Simpl Android Fingerprint SDK
 
 ## Release Notes
+### v1.0.15
+- Added Advertisement ID to the device fingerprint
 ### v1.0.14
 - Added more fingerprint params for fraud detection
 ### v1.0.13
