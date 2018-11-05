@@ -1,5 +1,7 @@
 # Simpl Android ZeroClick SDK
 ## Release Notes
+### v1.0.19
+ - [Approval v1.0.18](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/approvalSDK/changelog.md#v1018)
 ### v1.0.18
  - Token generation and url redirection returns a single error message instead of an array
 ### v1.0.17
