@@ -1,4 +1,6 @@
 # Simpl Android Approval SDK
+### v1.0.18
+- [Fingerprint v1.0.15](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/fingerprintSDK/changelog.md#v1015)
 ### v1.0.16
 - [Fingerprint v1.0.13](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/fingerprintSDK/changelog.md#v1013)
 ### v1.0.14
