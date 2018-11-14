@@ -1,6 +1,8 @@
 # Simpl Android Fingerprint SDK
 
 ## Release Notes
+### v1.0.16
+- Restrict fingerprint payload size to 8kb
 ### v1.0.15
 - Added Advertisement ID to the device fingerprint
 ### v1.0.14
