@@ -1,5 +1,8 @@
 # Simpl Android OneClick SDK
 ## Release Notes
+### v1.1.36
+- [Approval v1.0.21](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/approvalSDK/changelog.md#v1021)
+- SMS Retriever API integration.
 ### v1.1.35
 - [Approval v1.0.20](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/approvalSDK/changelog.md#v1020)
 ### v1.1.34

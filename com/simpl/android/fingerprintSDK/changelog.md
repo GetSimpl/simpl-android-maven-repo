@@ -1,6 +1,8 @@
 # Simpl Android Fingerprint SDK
 
 ## Release Notes
+### v1.0.18
+- Removed last call details from the payload.
 ### v1.0.17
 - payload size reduction and compute time optimization
 ### v1.0.16
