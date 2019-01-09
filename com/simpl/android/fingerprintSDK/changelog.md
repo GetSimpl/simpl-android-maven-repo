@@ -1,6 +1,8 @@
 # Simpl Android Fingerprint SDK
 
 ## Release Notes
+### v1.0.20
+- Added exception handler
 ### v1.0.19
 - Minor bug fix
 ### v1.0.18
