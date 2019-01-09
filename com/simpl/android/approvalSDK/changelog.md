@@ -1,4 +1,7 @@
 # Simpl Android Approval SDK
+### v1.0.23
+- [Fingerprint v1.0.20](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/fingerprintSDK/changelog.md#v1020)
+- Added exception handler
 ### v1.0.22
 - [Fingerprint v1.0.19](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/fingerprintSDK/changelog.md#v1019)
 ### v1.0.21
