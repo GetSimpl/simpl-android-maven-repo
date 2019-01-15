@@ -1,5 +1,7 @@
 # Simpl Android OneClick SDK
 ## Release Notes
+### v2.0.3
+- [Approval v1.0.24](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/approvalSDK/changelog.md#v1024)
 ### v2.0.2
 - [Approval v1.0.23](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/approvalSDK/changelog.md#v1023)
 - Added exception handler
