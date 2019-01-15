@@ -1,5 +1,8 @@
 # Simpl Android ZeroClick SDK
 ## Release Notes
+### v1.0.24
+ - [Approval v1.0.24](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/approvalSDK/changelog.md#v1024)
+ - Added exception handler
 ### v1.0.23
  - [Approval v1.0.22](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/approvalSDK/changelog.md#v1022)
  - Fixes SMS Retriever proguard issue.
