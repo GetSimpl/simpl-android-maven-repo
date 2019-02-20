@@ -1,4 +1,6 @@
 # Simpl Android Approval SDK
+### v1.0.25
+- Approval callback in UI Thread
 ### v1.0.24
 - [Fingerprint v1.0.21](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/fingerprintSDK/changelog.md#v1021)
 ### v1.0.23
