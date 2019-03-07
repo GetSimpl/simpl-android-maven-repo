@@ -4,6 +4,11 @@
 
 ### v1.0.25
 
+-  [Approval v1.0.25](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/approvalSDK/changelog.md#v1025)
+- ZeroClickTokenAuthorization returns in UI Thread
+
+### v1.0.25
+
 - [Approval v1.0.25](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/approvalSDK/changelog.md#v1025)
 - ZeroClickTokenAuthorization returns in UI Thread
 
