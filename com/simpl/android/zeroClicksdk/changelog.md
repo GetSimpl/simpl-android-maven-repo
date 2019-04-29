@@ -1,9 +1,11 @@
 # Simpl Android ZeroClick SDK
 
 ## Release Notes
+### v1.0.27
+- [Fingerprint v1.0.23](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/fingerprintSDK/changelog.md#v1023)
 
 ### v1.0.26
-- [Fingerprint v1.0.26](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/fingerprintSDK/changelog.md)
+- [Fingerprint v1.0.22](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/fingerprintSDK/changelog.md)
 
 ### v1.0.25
 
