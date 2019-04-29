@@ -1,6 +1,8 @@
 # Simpl Android Fingerprint SDK
 
 ## Release Notes
+### v1.023
+- Minor bug fix
 ### v1.0.22
 - Minor bug fix
 ### v1.0.21
