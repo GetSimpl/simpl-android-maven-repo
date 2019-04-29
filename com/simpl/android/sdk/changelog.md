@@ -1,5 +1,7 @@
 # Simpl Android OneClick SDK
 ## Release Notes
+### v2.0.6
+- [Fingerprint v1.0.23](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/fingerprintSDK/changelog.md#v1023)
 ### v2.0.5
 - [Fingerprint v1.0.22](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/fingerprintSDK/changelog.md#v1022)
 ### v2.0.4
