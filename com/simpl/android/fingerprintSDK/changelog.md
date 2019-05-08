@@ -1,6 +1,8 @@
 # Simpl Android Fingerprint SDK
 
 ## Release Notes
+### v1.025
+- Changed progaurd rules for enum 
 ### v1.024
 - Adds FlagMode 
 ### v1.023
