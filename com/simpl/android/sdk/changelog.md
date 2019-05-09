@@ -1,5 +1,7 @@
 # Simpl Android OneClick SDK
 ## Release Notes
+### v2.0.9
+- [Approval v1.0.29](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/approvalSDK/changelog.md#v1029)
 ### v2.0.7
 - [Approval v1.0.28](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/approvalSDK/changelog.md#v1028)
 ### v2.0.6
