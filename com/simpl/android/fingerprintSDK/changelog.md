@@ -1,6 +1,8 @@
 # Simpl Android Fingerprint SDK
 
 ## Release Notes
+### v1.0.27
+- Adds Https for airbrake calls
 ### v1.026
 - Adds FlagMode 
 ### v1.025

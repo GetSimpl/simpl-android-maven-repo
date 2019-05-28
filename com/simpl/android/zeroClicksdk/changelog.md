@@ -2,10 +2,10 @@
 
 ## Release Notes
 ### v1.0.27
-- [Fingerprint v1.0.23](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/fingerprintSDK/changelog.md#v1023)
+- [Approval v1.0.27](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/approvalSDK/changelog.md#v1027)
 
 ### v1.0.26
-- [Fingerprint v1.0.22](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/fingerprintSDK/changelog.md)
+- [Approval v1.0.26](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/approvalSDK/changelog.md#v1026)
 
 ### v1.0.25
 
