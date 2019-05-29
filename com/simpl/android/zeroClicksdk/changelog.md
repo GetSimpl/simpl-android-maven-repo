@@ -1,6 +1,8 @@
 # Simpl Android ZeroClick SDK
 
 ## Release Notes
+### v1.0.28
+- [Approval v1.0.30](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/approvalSDK/changelog.md#v1030)
 ### v1.0.27
 - [Approval v1.0.27](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/approvalSDK/changelog.md#v1027)
 
