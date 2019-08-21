@@ -1,6 +1,8 @@
 # Simpl Android Fingerprint SDK
 
 ## Release Notes
+### V1.0.29
+- Fix a bug releated to using previous instance
 ### V1.0.28
 - Add exception handler for adID generating method
 - Bug fix for inconsitent adIds in payload
