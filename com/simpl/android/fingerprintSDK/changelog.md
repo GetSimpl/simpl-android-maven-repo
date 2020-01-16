@@ -1,6 +1,9 @@
 # Simpl Android Fingerprint SDK
 
 ## Release Notes
+### V1.1.0
+- Removed in-apps 
+- Removed phone_number and email_id 
 ### V1.0.29
 - Fix a bug releated to using previous instance
 ### V1.0.28
