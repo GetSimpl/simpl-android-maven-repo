@@ -3,7 +3,7 @@
   <groupId>com.simpl.android</groupId>
   <artifactId>fingerprintSDK</artifactId>
   <versioning>
-    <release>1.1.1</release>
+    <release>1.1.2</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -40,7 +40,8 @@
       <version>1.1.0</version>
       <version>1.0.19-1</version>
       <version>1.1.1</version>
+      <version>1.1.2</version>
     </versions>
-    <lastUpdated>20200514162823</lastUpdated>
+    <lastUpdated>20200515135344</lastUpdated>
   </versioning>
 </metadata>
