@@ -1,4 +1,6 @@
 # Simpl Android Approval SDK
+## v1.1.1
+- [Fingerprint v1.1.1](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/fingerprintSDK/changelog.md#v111)
 ## v1.1.0
 - Removed Approval API call 
 - [Fingerprint v1.1.0](https://github.com/GetSimpl/simpl-android-maven-repo/blob/master/com/simpl/android/fingerprintSDK/changelog.md#v110)
