@@ -1,6 +1,8 @@
 # Simpl Android Fingerprint SDK
 
 ## Release Notes
+### V1.1.2
+- Removed unused and less important fingerprint params
 ### V1.1.1
 - Removed unused fingerprint params
 ### V1.1.0
